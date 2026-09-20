@@ -1,0 +1,8 @@
+chromadb
+ipykernel
+ipywidgets
+jupyterlab
+pandas
+sentence-transformers
+torch
+tqdm
